@@ -1,1 +1,1 @@
-Code for Selective Test-Time Adaptation using Neural Implicit Representations: Application to Unsupervised Anomaly Detection
+Code for Selective Test-Time Adaptation using Neural Implicit Representations for Unsupervised Anomaly Detection
